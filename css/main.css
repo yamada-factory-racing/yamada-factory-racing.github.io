@@ -2,6 +2,11 @@ section {
   margin-bottom: 8rem;
 }
 
+section.header {
+  padding-top: 8rem;
+  text-align: center;
+}
+
 .nav {
   top: 10rem;
   left: 10rem;
