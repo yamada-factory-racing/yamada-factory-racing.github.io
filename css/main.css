@@ -1,0 +1,13 @@
+section {
+  margin-bottom: 8rem;
+}
+
+.nav {
+  top: 10rem;
+  left: 10rem;
+  position: fixed;
+}
+
+.bottom-margin {
+  margin-bottom: 40rem;
+}
